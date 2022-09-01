@@ -160,5 +160,5 @@ You are required to submit the following for review:
 
 
 READ ME Additions:
-Commit message
+Commit message 1
 Added title and changed certain "div" elements to "header", "nav", "section", and "figure"
